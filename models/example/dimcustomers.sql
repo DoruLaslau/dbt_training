@@ -1,1 +1,1 @@
-select 1 as doru
+select * from raw.jaffle_shop.customers where id < 25
